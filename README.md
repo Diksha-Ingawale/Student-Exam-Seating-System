@@ -39,7 +39,7 @@ StudentSeatingSystem/
 3. Compile all Java files:
 ```bash
 javac src/*.java
-
+```
 4.Run the program:
 ```
 java -cp src Main
